@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "611063996525",
+    "project_id": "kayoola-drivers-app",
+    "storage_bucket": "kayoola-drivers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611063996525:android:9650986535ee7837475f64",
+        "android_client_info": {
+          "package_name": "com.example.kayoola_drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611063996525-vgj15vcpgb24ki282n9hja2r87h4v5bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3TRVj8XaSEuDQ1ZwKaM47LFzFZJ2qrTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611063996525-vgj15vcpgb24ki282n9hja2r87h4v5bj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611063996525-0i34kq5keb74fmi7inl6korvq9mhjenh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kayoolaDriversApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

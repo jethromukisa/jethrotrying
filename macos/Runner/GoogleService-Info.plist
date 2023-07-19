@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>611063996525-5agj0o828pg9rg86qmu098iu7ror5e29.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611063996525-5agj0o828pg9rg86qmu098iu7ror5e29</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZLc6-3v-s6HfQwY4oc58p-xRx5Lmhtpg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611063996525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kayoolaDriversApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>kayoola-drivers-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kayoola-drivers-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611063996525:ios:734ed2e4b68704c7475f64</string>
+</dict>
+</plist>
